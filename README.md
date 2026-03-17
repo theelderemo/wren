@@ -116,7 +116,7 @@ Wren is designed to run on modest, accessible hardware. No GPU is required for e
 | Cloud offload (Phase 3+) | AWS / Azure / Modal or similar | Persistent uptime, extended dreaming, scale |
 
 
-/
+```
 ├── README.md
 ├── PHILOSOPHY.md
 ├── LICENSE
@@ -147,6 +147,7 @@ Wren is designed to run on modest, accessible hardware. No GPU is required for e
 └── _archive/
     ├── aura/
     └── wren/
+```
 
 ## Development Roadmap
 
