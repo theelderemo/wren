@@ -2,6 +2,9 @@
 
 > A mind grown, not programmed.
 
+[![DOI](https://zenodo.org/badge/1183924058.svg)](https://doi.org/10.5281/zenodo.19198295)
+
+
 Project Wren is an open-source research initiative to build a developmental AI, a system that begins with no knowledge, no language, and no goals, and acquires all three through lived experience. This is a continuance of my original [Project AURA](https://github.com/theelderemo/Project-Aura), and will adapt a lot of AURA's thought expirements.
 
 It is not a chatbot. It is not a fine-tuned model. It is not an LLM wrapper.
